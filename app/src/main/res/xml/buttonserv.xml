@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityEventTypes="typeContextClicked|typeViewClicked"
+    android:accessibilityFeedbackType="feedbackAllMask"
+    android:notificationTimeout="10"
+    android:canRetrieveWindowContent="true"
+    android:canRequestFilterKeyEvents="true"
+    android:accessibilityFlags="flagReportViewIds|flagDefault|flagEnableAccessibilityVolume|flagRetrieveInteractiveWindows|flagRequestFilterKeyEvents"
+    android:canPerformGestures="true"
+
+
+    />
